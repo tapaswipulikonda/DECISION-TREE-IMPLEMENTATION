@@ -35,3 +35,6 @@ Age, Sex, Chest pain type, Resting blood pressure, Cholesterol, Fasting blood su
 
 # OUTPUT
 
+![Image](https://github.com/user-attachments/assets/b006576f-193c-4644-a618-9e5864b6be1d)
+
+![Image](https://github.com/user-attachments/assets/bfb6deb6-5535-412c-9c43-308d6e27fb7e)
